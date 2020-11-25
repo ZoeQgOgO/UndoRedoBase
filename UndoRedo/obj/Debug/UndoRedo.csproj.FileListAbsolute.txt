@@ -1,0 +1,12 @@
+C:\Users\leuco\Downloads\UndoRedo\UndoRedo\UndoRedo\bin\Debug\UndoRedo.exe
+C:\Users\leuco\Downloads\UndoRedo\UndoRedo\UndoRedo\bin\Debug\UndoRedo.pdb
+C:\Users\leuco\Downloads\UndoRedo\UndoRedo\UndoRedo\obj\Debug\UndoRedo.csprojAssemblyReference.cache
+C:\Users\leuco\Downloads\UndoRedo\UndoRedo\UndoRedo\obj\Debug\UndoRedo.csproj.CoreCompileInputs.cache
+C:\Users\leuco\Downloads\UndoRedo\UndoRedo\UndoRedo\obj\Debug\UndoRedo.exe
+C:\Users\leuco\Downloads\UndoRedo\UndoRedo\UndoRedo\obj\Debug\UndoRedo.pdb
+C:\Users\leuco\source\repos\UndoRedo\UndoRedo\bin\Debug\UndoRedo.exe
+C:\Users\leuco\source\repos\UndoRedo\UndoRedo\bin\Debug\UndoRedo.pdb
+C:\Users\leuco\source\repos\UndoRedo\UndoRedo\obj\Debug\UndoRedo.csprojAssemblyReference.cache
+C:\Users\leuco\source\repos\UndoRedo\UndoRedo\obj\Debug\UndoRedo.csproj.CoreCompileInputs.cache
+C:\Users\leuco\source\repos\UndoRedo\UndoRedo\obj\Debug\UndoRedo.exe
+C:\Users\leuco\source\repos\UndoRedo\UndoRedo\obj\Debug\UndoRedo.pdb
